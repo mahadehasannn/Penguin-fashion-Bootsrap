@@ -1,0 +1,14 @@
+.btn{
+
+    background-color: rgba(164, 188, 70, 1);
+color: white;
+}
+.card {
+    width: 350px;
+}
+
+.card-img-sizing{
+    margin-left: 30px;
+background-color: #F1F1F1;
+    width: 293px;
+    height: 350px;}
